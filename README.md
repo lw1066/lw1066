@@ -8,6 +8,8 @@ Before moving into software development, I worked in English language teaching a
 
 I completed the Northcoders full-stack development bootcamp in 2024 and hold an MA in Applied Linguistics from the University of Sussex.
 
+Take a look at my [Portfolio](https://lewiswebster.co.uk) for a bit more about me or [LinkedIn](https://linkedin.com/in/lewiswebster1066) for more work stuff :)
+
 ## Featured projects
 
 ### [The Ana-gram-miser](https://github.com/lw1066/anagrammer2)
