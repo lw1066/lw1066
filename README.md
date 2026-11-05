@@ -26,6 +26,8 @@ This project brings together my interests in applied linguistics, data and softw
 
 **React · TypeScript · Express · SQLite · Python · Recharts · Jest**
 
+[Try the app](https://spokenbncconcordancer.netlify.app/)
+
 ### [Beach Buddy — public web version](https://github.com/lw1066/beach-buddy-web)
 
 A swimming-information app combining bathing-water classifications, pollution risk forecasts, weather, tides and nearby amenities. Adapted from my React Native mobile project, with an interactive web map and authenticated AWS API requests.
